@@ -1,11 +1,16 @@
 This is the answer set program used to generate solution sets for the experiments in:
+
 	Cory Siler and Stephen G. Ware. 
 	A good story is one in a million: solution density in narrative generation problems. 
 	In AIIDE, 2020. (forthcoming)
+	
 The program is written for Potassco's Clingo and Asprin software.
+
 A Python-based UI is also provided.
 
+
 To install the dependencies:
+
 	Download and install Miniconda from the Web. (Testing was done on the Ubuntu-64 version.)
 	Change Miniconda to use Python 3.7:
 		conda install python=3.7
